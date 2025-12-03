@@ -7,9 +7,6 @@ let sum = 0;
 
 rl.on("line", (line) => {
   let ptr = 0;
-
-  let j = ptr + 1;
-
   let digitsLeft = 12;
   let answer = "";
 
